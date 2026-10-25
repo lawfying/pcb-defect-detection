@@ -1,0 +1,13 @@
+path: D:\machine_vision\pythonProject2\class\yolo\datasets\mydata
+train: images/train
+val: images/val
+
+
+# Classes
+names:
+  0: "missing_hole"
+  1: "Mouse_bite"
+  2: "open_circuit"
+  3: "short"
+  4: "spur"
+  5: "spurious_copper"

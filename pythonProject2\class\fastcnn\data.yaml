@@ -1,0 +1,14 @@
+# 数据集1
+path: D:/machine_vision/pythonProject2/class/fastcnn/new_datasets
+train: D:/machine_vision/pythonProject2/class/fastcnn/new_datasets/images/train
+val: D:/machine_vision/pythonProject2/class/fastcnn/new_datasets/images/val
+
+nc: 6
+names:
+  0: "missing_hole"
+  1: "Mouse_bite"
+  2: "open_circuit"
+  3: "short"
+  4: "spur"
+  5: "spurious_copper"
+

@@ -1,0 +1,12 @@
+__pycache__/
+.idea/
+output/
+*.pt
+*.pth
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.xml
+**/datasets/*/images/
+**/datasets/*/labels/
